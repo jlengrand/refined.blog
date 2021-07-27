@@ -1,6 +1,19 @@
 {
     "data": [
         {
+            "name": "Julien Lengrand-Lambert",
+            "url": "https://lengrand.fr",
+            "tags": [
+                "software",
+                "computers",
+                "open-source",
+                "java",
+                "kotlin",
+                "devrel"
+            ],
+            "furl": "https://lengrand.fr/rss/",
+        },
+        {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
             "tags": [
